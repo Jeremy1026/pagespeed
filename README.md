@@ -1,3 +1,5 @@
+# Shell Page Speed Tester
+
 Test load times for a given URL.
 
 Usage
